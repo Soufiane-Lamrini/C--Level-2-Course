@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lmrin\\Desktop\\Courses 6\\Projet 2 solution prof\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{714D4EC1-0DBC-40F7-B80F-D09EB8F34CF5}|Projet 2 solution prof.vcxproj|C:\\Users\\lmrin\\Desktop\\Courses 6\\Projet 2 solution prof\\Projet 2 solution prof.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{714D4EC1-0DBC-40F7-B80F-D09EB8F34CF5}|Projet 2 solution prof.vcxproj|solutionrelative:Projet 2 solution prof.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Projet 2 solution prof.cpp",
+              "DocumentMoniker": "C:\\Users\\lmrin\\Desktop\\Courses 6\\Projet 2 solution prof\\Projet 2 solution prof.cpp",
+              "RelativeDocumentMoniker": "Projet 2 solution prof.cpp",
+              "ToolTip": "C:\\Users\\lmrin\\Desktop\\Courses 6\\Projet 2 solution prof\\Projet 2 solution prof.cpp*",
+              "RelativeToolTip": "Projet 2 solution prof.cpp*",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAewKcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-25T19:03:35.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lmrin\\Desktop\\Courses 6\\file 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA05C909-AEE9-4F87-8670-002EC57F04EF}|file 2.vcxproj|C:\\Users\\lmrin\\Desktop\\Courses 6\\file 2\\file 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA05C909-AEE9-4F87-8670-002EC57F04EF}|file 2.vcxproj|solutionrelative:file 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "file 2.cpp",
+              "DocumentMoniker": "C:\\Users\\lmrin\\Desktop\\Courses 6\\file 2\\file 2.cpp",
+              "RelativeDocumentMoniker": "file 2.cpp",
+              "ToolTip": "C:\\Users\\lmrin\\Desktop\\Courses 6\\file 2\\file 2.cpp",
+              "RelativeToolTip": "file 2.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-04T10:52:59.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lmrin\\Desktop\\Courses 6\\Vector\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F50B6A9-E64B-47FF-86DB-B7FE136BA9D1}|Vector.vcxproj|C:\\Users\\lmrin\\Desktop\\Courses 6\\Vector\\Vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F50B6A9-E64B-47FF-86DB-B7FE136BA9D1}|Vector.vcxproj|solutionrelative:Vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vector.cpp",
+              "DocumentMoniker": "C:\\Users\\lmrin\\Desktop\\Courses 6\\Vector\\Vector.cpp",
+              "RelativeDocumentMoniker": "Vector.cpp",
+              "ToolTip": "C:\\Users\\lmrin\\Desktop\\Courses 6\\Vector\\Vector.cpp",
+              "RelativeToolTip": "Vector.cpp",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-01T13:36:32.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lmrin\\Desktop\\Courses 6\\Struct of vector\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{379274B8-5A5F-47AF-B841-6F27E34C97BE}|Struct of vector.vcxproj|C:\\Users\\lmrin\\Desktop\\Courses 6\\Struct of vector\\Struct of vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{379274B8-5A5F-47AF-B841-6F27E34C97BE}|Struct of vector.vcxproj|solutionrelative:Struct of vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Struct of vector.cpp",
+              "DocumentMoniker": "C:\\Users\\lmrin\\Desktop\\Courses 6\\Struct of vector\\Struct of vector.cpp",
+              "RelativeDocumentMoniker": "Struct of vector.cpp",
+              "ToolTip": "C:\\Users\\lmrin\\Desktop\\Courses 6\\Struct of vector\\Struct of vector.cpp*",
+              "RelativeToolTip": "Struct of vector.cpp*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-01T17:47:23.23Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

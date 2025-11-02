@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lmrin\\Desktop\\Courses 6\\Two dimensional array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13D4CBA4-E451-462B-97D5-988F7593AE06}|Two dimensional array.vcxproj|C:\\Users\\lmrin\\Desktop\\Courses 6\\Two dimensional array\\Two dimensional array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13D4CBA4-E451-462B-97D5-988F7593AE06}|Two dimensional array.vcxproj|solutionrelative:Two dimensional array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Two dimensional array.cpp",
+              "DocumentMoniker": "C:\\Users\\lmrin\\Desktop\\Courses 6\\Two dimensional array\\Two dimensional array.cpp",
+              "RelativeDocumentMoniker": "Two dimensional array.cpp",
+              "ToolTip": "C:\\Users\\lmrin\\Desktop\\Courses 6\\Two dimensional array\\Two dimensional array.cpp*",
+              "RelativeToolTip": "Two dimensional array.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-30T17:30:51.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

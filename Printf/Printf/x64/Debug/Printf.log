@@ -1,0 +1,3 @@
+﻿  Printf.cpp
+C:\Users\lmrin\Desktop\Courses 6\Printf\Printf.cpp(11,11): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+  Printf.vcxproj -> C:\Users\lmrin\Desktop\Courses 6\Printf\x64\Debug\Printf.exe

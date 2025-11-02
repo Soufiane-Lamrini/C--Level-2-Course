@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lmrin\\Desktop\\Courses 6\\Memory management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F35C88D2-23AC-472D-A1A4-D0DB9E4469F8}|Memory management.vcxproj|C:\\Users\\lmrin\\Desktop\\Courses 6\\Memory management\\Memory management.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F35C88D2-23AC-472D-A1A4-D0DB9E4469F8}|Memory management.vcxproj|solutionrelative:Memory management.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Memory management.cpp",
+              "DocumentMoniker": "C:\\Users\\lmrin\\Desktop\\Courses 6\\Memory management\\Memory management.cpp",
+              "RelativeDocumentMoniker": "Memory management.cpp",
+              "ToolTip": "C:\\Users\\lmrin\\Desktop\\Courses 6\\Memory management\\Memory management.cpp",
+              "RelativeToolTip": "Memory management.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-02T18:37:18.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

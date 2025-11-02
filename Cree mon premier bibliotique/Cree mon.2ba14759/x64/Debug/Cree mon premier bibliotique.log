@@ -1,0 +1,7 @@
+﻿  Cree mon premier bibliotique.cpp
+C:\Users\lmrin\Desktop\Courses 6\Cree mon premier bibliotique\MathFonction.h(11,16): warning C4244: 'return' : conversion de 'double' en 'float', perte possible de données
+  (compiler le fichier source 'Cree%20mon%20premier%20bibliotique.cpp')
+  
+C:\Users\lmrin\Desktop\Courses 6\Cree mon premier bibliotique\Cree mon premier bibliotique.cpp(11,18): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+C:\Users\lmrin\Desktop\Courses 6\Cree mon premier bibliotique\Cree mon premier bibliotique.cpp(13,36): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+  Cree mon premier bibliotique.vcxproj -> C:\Users\lmrin\Desktop\Courses 6\Cree mon premier bibliotique\x64\Debug\Cree mon premier bibliotique.exe

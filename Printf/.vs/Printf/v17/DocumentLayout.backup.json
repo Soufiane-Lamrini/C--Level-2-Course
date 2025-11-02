@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lmrin\\Desktop\\Courses 6\\Printf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E6B90D-4A5C-441C-8DA1-4654A24DA139}|Printf.vcxproj|C:\\Users\\lmrin\\Desktop\\Courses 6\\Printf\\Printf.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E8E6B90D-4A5C-441C-8DA1-4654A24DA139}|Printf.vcxproj|solutionrelative:Printf.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Printf.cpp",
+              "DocumentMoniker": "C:\\Users\\lmrin\\Desktop\\Courses 6\\Printf\\Printf.cpp",
+              "RelativeDocumentMoniker": "Printf.cpp",
+              "ToolTip": "C:\\Users\\lmrin\\Desktop\\Courses 6\\Printf\\Printf.cpp",
+              "RelativeToolTip": "Printf.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-28T22:00:54.573Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

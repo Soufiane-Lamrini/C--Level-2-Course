@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lmrin\\Desktop\\Courses 6\\Swap en utilisant les pointeures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A24295F5-85BB-45E9-B1C4-963FDD29127C}|Swap en utilisant les pointeures.vcxproj|C:\\Users\\lmrin\\Desktop\\Courses 6\\Swap en utilisant les pointeures\\Swap en utilisant les pointeures.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A24295F5-85BB-45E9-B1C4-963FDD29127C}|Swap en utilisant les pointeures.vcxproj|solutionrelative:Swap en utilisant les pointeures.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Swap en utilisant les pointeures.cpp",
+              "DocumentMoniker": "C:\\Users\\lmrin\\Desktop\\Courses 6\\Swap en utilisant les pointeures\\Swap en utilisant les pointeures.cpp",
+              "RelativeDocumentMoniker": "Swap en utilisant les pointeures.cpp",
+              "ToolTip": "C:\\Users\\lmrin\\Desktop\\Courses 6\\Swap en utilisant les pointeures\\Swap en utilisant les pointeures.cpp*",
+              "RelativeToolTip": "Swap en utilisant les pointeures.cpp*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-02T11:45:59.218Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
